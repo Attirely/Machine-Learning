@@ -17,14 +17,14 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
 
 ## Type Model Accuracy and Loss
 <p align="center">
-  <img src="Dokumentasi/acc_type.jpeg" width="600"/>
-  <img src="Dokumentasi/loss_type.jpeg" width="600"/>
+  <img src="Dokumentasi/acc_type.jpeg" width="300"/>
+  <img src="Dokumentasi/loss_type.jpeg" width="300"/>
 </p>
 
 ## Color Model Accuracy and Loss
 <p align="center">
-  <img src="Dokumentasi/acc_color.png" width="600"/>
-  <img src="Dokumentasi/loss_color.png"  width="600"/>
+  <img src="Dokumentasi/acc_color.png" width="300"/>
+  <img src="Dokumentasi/loss_color.png"  width="300"/>
 </p>
 
 # References
