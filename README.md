@@ -24,7 +24,7 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
 ## Color Model Accuracy and Loss
 <p align="center">
   <img src="Dokumentasi/acc_color.png" width="600"/>
-  <img src="Dokumentasi/loss_type.png"  width="600"/>
+  <img src="Dokumentasi/loss_color.png"  width="600"/>
 </p>
 
 # References
