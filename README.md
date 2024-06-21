@@ -19,7 +19,7 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
 
 ## Color Model Architecture
 <p align="center">
-  <img src="Dokumentasi/color_layer,jpg" width="300"/>
+  <img src="Dokumentasi/color_layer.jpg" width="300"/>
 </p>
 
 # Type Model Accuracy and Loss
