@@ -13,8 +13,9 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
 - [Color Dataset](https://universe.roboflow.com/mariomartuaa/attirely-color)
 
 ## EffecientNet-B0 General Architecture
-![EffecientNet-B0 General Architecture](![image](https://github.com/Attirely/Machine-Learning/assets/89931105/2409317a-1b59-492d-a2ea-9ba043129595)
-)
+<p align="center">
+  <img src="Dokumentasi/EfficientNet B0 Architecture.png" width="300"/>
+</p>
 
 ## Type Model Accuracy and Loss
 <p align="center">
