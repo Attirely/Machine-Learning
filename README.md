@@ -12,7 +12,7 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
 - [Cloth Type Dataset](https://universe.roboflow.com/attirely-senang/attirely-hmm)
 - [Color Dataset](https://universe.roboflow.com/mariomartuaa/attirely-color)
 
-## EffecientNetV2-B0 General Architecture
+## EffecientNet-B0 General Architecture
 <p align="center">
   <img src="Dokumentasi/EfficientNet B0 Architecture.png" width="300"/>
 </p>
