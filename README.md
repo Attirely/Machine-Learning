@@ -17,17 +17,30 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
   <img src="Dokumentasi/EfficientNet B0 Architecture.png" width="300"/>
 </p>
 
-## Type Model Accuracy and Loss
+# Type Model Accuracy and Loss
+
 <p align="center">
   <img src="Dokumentasi/acc_type.jpeg" width="300"/>
   <img src="Dokumentasi/loss_type.jpeg" width="300"/>
 </p>
 
-## Color Model Accuracy and Loss
+- **Type Model Accuracy:**
+  - Training Accuracy: 99.60%
+  - Validation Accuracy: 97.90%
+
+---
+
+# Color Model Accuracy and Loss
+
 <p align="center">
   <img src="Dokumentasi/acc_color.png" width="300"/>
-  <img src="Dokumentasi/loss_color.png"  width="300"/>
+  <img src="Dokumentasi/loss_color.png" width="300"/>
 </p>
+
+- **Color Model Accuracy:**
+  - Training Accuracy: 88.41%
+  - Validation Accuracy: 84.43%
+
 
 # References
 - Aneesh K, P V Rohith Kumar, Sai Uday Nagula, Archana Nagelli. Fashion Recommendation System. 2022.  [IJRASET](https://tfhub.dev/google/collections/landmarks)
