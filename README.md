@@ -15,5 +15,17 @@ This is documentation of Machine Learning model of Attirely - Bangkit Academy Ca
 ## EffecientNet-B0 General Architecture
 ![EffecientNet-B0 General Architecture](https://www.researchgate.net/publication/348470984/figure/fig2/AS:979961129209859@1610652348348/The-EffecientNet-B0-general-architecture.png)
 
+## Type Model Accuracy and Loss
+<p align="center">
+  <img src="Dokumentasi/acc_type.jpeg" alt="Cloud Architecture" width="600"/>
+  <img src="Dokumentasi/loss_type.jpeg" alt="Cloud Architecture" width="600"/>
+</p>
+
+## Color Model Accuracy and Loss
+<p align="center">
+  <img src="Dokumentasi/acc_color.png" alt="Cloud Architecture" width="600"/>
+  <img src="Dokumentasi/loss_type.png" alt="Cloud Architecture" width="600"/>
+</p>
+
 # References
 - Aneesh K, P V Rohith Kumar, Sai Uday Nagula, Archana Nagelli. Fashion Recommendation System. 2022.  [IJRASET](https://tfhub.dev/google/collections/landmarks)
